@@ -2,7 +2,6 @@
 
 Using synthetic datasets to train an end-to-end convolutional neural network for 3D seismic fault segmentation.
 
-
 Dataset
 To train our CNN network, we automatically created 200 pairs of synthetic seismic and corresponding fault volumes, which were shown to be sufficient to train a good fault segmentation network.
 
